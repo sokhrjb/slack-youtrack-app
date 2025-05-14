@@ -4,7 +4,7 @@ YouTrack App that adds a Slack widget to user cards. The widget displays the use
 their current status, and includes a button that you can click to open a direct message in your Slack workspace.
 
 [Open in JetBrains Marketplace](https://plugins.jetbrains.com/plugin/25175-slack-user-status)
-
+ 
 ---
   
 ### Build 
