@@ -9,6 +9,8 @@ their current status, and includes a button that you can click to open a direct 
          
 ### Build  
 1. `npm i`    
+
+
 2. `npm build`   
 
 ### Upload to YouTrack
