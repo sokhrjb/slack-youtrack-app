@@ -6,6 +6,10 @@ their current status, and includes a button that you can click to open a direct 
 [Open in JetBrains Marketplace](https://plugins.jetbrains.com/plugin/25175-slack-user-status)
   
 ---  
+
+
+
+
          
 ### Build  
 1. `npm i`    
